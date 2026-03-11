@@ -1,4 +1,7 @@
 
+> [!WARNING]
+> Underscape has moved to gitea: https://gitea.under-scape.com/UnderScape
+
 # UnderScape
 
 Nous créons des jeux, des plateformes de modding et des mondes en constante évolution.
